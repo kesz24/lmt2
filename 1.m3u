@@ -42,3 +42,8 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533f
 
 WarnerTV,http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MEAE1940571519405715&ct=19249&tsum=977961c82f61c35af96e8af5dfbc8a3d
 WARNER TV,P2p://ns3.hellotvvod.com:9906/27c0133e0def485aa0b4463293a0c3d9
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubpku.strimz.workers.dev/
+#EXTINF:0 CUID="67" tvg-name="Warner TV" tvg-id="warnertv.id" tvg-logo="https://logo.iptveditor.com/warnertv.png" group-title="Movies",Warner TV
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
