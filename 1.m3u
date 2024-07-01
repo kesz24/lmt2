@@ -39,3 +39,5 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2605/default_primary.mp
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Warner" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo-thumbnail.png" group-title="Entertainment & LifeStyle",Warner TV
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+WarnerTV,http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MEAE1940571519405715&ct=19249&tsum=977961c82f61c35af96e8af5dfbc8a3d
