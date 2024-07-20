@@ -1,3 +1,6 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
+
 #EXTINF:0 group-title="KIDS" tvg-logo="https://i.imgur.com/HtoaJoA.png", Cartoon Network (ID) 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
