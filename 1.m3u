@@ -185,6 +185,12 @@ https://ddy6.mizhls.ru/ddy6/premium100/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://script.newfamilytv.my.id/sc/vision/drm.php?id=113
 http://script.newfamilytv.my.id/sc/vision/index.mpd?id=113
 
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/j6B9YFT/Picsart-23-07-21-22-42-27-164.jpg" group-title="livebolla", SPORTSTARS 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
 
 #EXTINF:-1,beIN SPORTS 3 HD 🇶🇦
 http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6124/index.m3u8
