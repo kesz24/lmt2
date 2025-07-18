@@ -241,3 +241,13 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 
 #EXTINF:-1 group-title="SINGAPORE" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png", CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/2h01fDJ.png" group-title="SHAREEXT SPORT",INDOSIAR BRI LIGA 1
+https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png",INDOSIAR HDfilex1 (SD)
+http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
+
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/indosiar.png" group-title="SHAREEXT SPORT",INDOSIARHDid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
+http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
