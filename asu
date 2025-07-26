@@ -1,3 +1,39 @@
+#EXTINF:-1 group-title="eee" tvg-id="" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",WARNER TV1 gajelas anjg
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
+https://quiet-rain-1d8f.wkwkw.workers.dev/linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png",Warner TV Southeast Asia
+https://melon-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaadx.workers.dev
+#EXTINF:-1 tvg-id="WarnerTVAsia.us.id" tvg-name="Warner TV HD" group-title="Movies" tvg-logo="https://i.ibb.co/J3wzKT9/Warner2018-LA.png",Warner TV ᶜᵘᵇᵐᵘ
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="V-Movies",HBO
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="V-Movies",HBO Family
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="V-Movies",HBO Hits
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="V-Movies",HBO Signature
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
@@ -42,5 +78,3 @@ https://mwmpos04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZITFhOVi1SZTFCOHNCSFhGU2dNdXRLMmhOanBjVVNQMjFIeDFKcDc3Ri1BRng3Vzc1MnVhSHJqQlNtRzBRLXlWZUh6QS1RRmtxOWtQUFNsWFRWRUVscE94SVhUSmQyTzkzUGVVbFUycEdXVW1TRXNueVlRQ3huTHkySllfUTVfSWthdEFWQkp5dXFDYmJ0SGhvdEZhVzFaOXByajFQT3h1X3BVNTczeV9BV1I3Zl9YdnhCV0tJQUNIb19uRDhlSmhLaFF5RVBBOTZYOFBqYW1NUmtYcjF1ZjNCR3gtUGNGX3FJUWt3TXE1eVdCUVZzTkhUT0M0N3dFMkVRTjRvMVBlcllhck1HbTVuVW9VTWhfSWpRWDR5REFKVnRBbTdOUm5aTXYyM2cya3V3UXd6NmhVc09uYUlJMVQ1aWNmeE1lbk9TSGNzUjcwcUFQSUZtVVlhSjBFb2pwNmROSERJZFUyTVFFN3U2cUozdDUmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTQ5IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jbmFTX2Rhc2hfN2VlMTBhYjMyZGRjX3R2XzIiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZITFhOVi1SZTFCOHNCSFhGU2dNdXRLMmhOanBjVVNQMjFIeDFKcDc3Ri1BRng3Vzc1MnVhSHJqQlNtRzBRLXlWZUh6QS1RRmtxOWtQUFNsWFRWRUVscE94SVhUSmQyTzkzUGVVbFUycEdXVW1TRXNueVlRQ3huTHkySllfUTVfSWthdEFWQkp5dXFDYmJ0SGhvdEZhVzFaOXByajFQT3h1X3BVNTczeV9BV1I3Zl9YdnhCV0tJQUNIb19uRDhlSmhLaFF5RVBBOTZYOFBqYW1NUmtYcjF1ZjNCR3gtUGNGX3FJUWt3TXE1eVdCUVZzTkhUT0M0N3dFMkVRTjRvMVBlcllhck1HbTVuVW9VTWhfSWpRWDR5REFKVnRBbTdOUm5aTXYyM2cya3V3UXd6NmhVc09uYUlJMVQ1aWNmeE1lbk9TSGNzUjcwcUFQSUZtVVlhSjBFb2pwNmROSERJZFUyTVFFN3U2cUozdDUiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=hSvBwyIuVA3mnd0ja16Lv%2byfJMI%3d
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
-
-
