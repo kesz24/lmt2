@@ -3,5 +3,6 @@
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754148/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
+#EXTM3U
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="antv" tvg-chno="antv"
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/782/file/live/782/master.m3u8?hdnts=exp=1753526376~acl=/stream/782/file/*~id=allUsers~hmac=61457c3dc4004b5fda2dcb3c10343ef217f50e3d5e4630eff98b7fd8bc65b656
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/782/file/live/782/master.m3u8
