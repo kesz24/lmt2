@@ -83,6 +83,15 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17939&type=dash
 https://bitter-boa-67.deno.dev/play.mpd?id=17939&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=19497&type=dash
 
+#EXTINF:-1 tvg-id="kocret" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-2.jpg" group-title="kocret",kocret3
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=19497&type=dash
+
+
 
 #EXTINF:-1 tvg-id="kocret2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/champions-tv-2.jpg" group-title="kocret",kocret
 #KODIPROP:inputstream.adaptive.manifest_type=dash
